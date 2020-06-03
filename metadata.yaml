@@ -1,5 +1,5 @@
 _repo: Fabiola-Or-The-Church-of-the-Catacombs_62254
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Brennan, Richard
@@ -20,6 +20,9 @@ contributor:
     gutenberg_agent_id: '42180'
     url: http://www.gutenberg.org/2009/agents/42180
     wikipedia: https://en.wikipedia.org/wiki/Yan%27_Dargent
+covers:
+- cover_type: archival
+  image_path: 62254-h/images/cover.jpg
 creator:
   author:
     agent_name: Wiseman, Nicholas Patrick
@@ -34,6 +37,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49787
     wikipedia: https://en.wikipedia.org/wiki/Nicholas_Wiseman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62254#Fabiola-Or-The-Church-of-the-Catacombs
 gutenberg_issued: '2020-05-28'
 gutenberg_type: Text
 identifiers:
